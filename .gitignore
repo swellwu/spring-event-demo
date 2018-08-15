@@ -1,0 +1,9 @@
+
+logs/
+.project
+.settings/
+.idea/**/
+.idea/
+*/*.iml
+log/target
+*/**/.DS*
